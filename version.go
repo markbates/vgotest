@@ -1,3 +1,3 @@
 package vgotest
 
-var Version = "0.0.3"
+var Version = "1.0.0"
