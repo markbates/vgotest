@@ -1,1 +1,1 @@
-module github.com/markbates/vgotest/v2
+module github.com/markbates/vgotest
